@@ -1,0 +1,7 @@
+{
+  "name": "mapDirection",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
